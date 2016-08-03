@@ -1,2 +1,2 @@
 # SwissGridTracker
-Android application to show direction to target SwissGrid (WSG84) Coordinate
+Android application to show direction to target SwissGrid (CH1903) Coordinate
